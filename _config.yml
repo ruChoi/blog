@@ -2,8 +2,8 @@ title:              ruChoi Blog
 email:              mura2393@nate.com
 description:        A Blog Theme by Start Bootstrap
 author:             ruChoi
-baseurl:            ""
-url:                "https://ruchoi.github.io/blog"
+baseurl:            "/blog"
+url:                "https://ruchoi.github.io"
 
 # Social Profiles
 #twitter_username:   SBootstrap
